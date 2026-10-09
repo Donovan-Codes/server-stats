@@ -1,0 +1,20 @@
+# Credentials
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+devbox*
+*.env
+.env*
+
+# Output / scratch
+*.log
+output/
+tmp/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
